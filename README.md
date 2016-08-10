@@ -1,2 +1,3 @@
-# scissorsofhonor
-Scissors of Honor iOS App
+# Scissors of Honor #
+
+Issue tracker for the Scissors of Honor iOS app
